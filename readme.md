@@ -1,6 +1,6 @@
-# Challenge: Node.js concepts
+# Desafio: Node.js concepts
 
-## In this challenge, an application was created to demonstrate what I have learned so far with nodejs.
+## Neste desafio, um aplicativo foi criado para demonstrar o que aprendi até agora com nodejs.
 
 TABLE OF CONTENTS
 =======================
